@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Aslan",
+  "name": "Narnia",
+  "description": "This mod adds Narnia Items",
+  "version": "ALPHA",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Amlug"],
+  "credits": "Thanks to C.S.Lewis for wirting Narnia",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
