@@ -12,7 +12,6 @@ public class ClientProxy extends CommonProxy {
 	public void registerModels() {
 		
 		registerItemModel(NarniaItems.NarniaItem, 0);
-//		registerItemModel(BodoItems.BodoFood, 0);
 		
 	}
 
