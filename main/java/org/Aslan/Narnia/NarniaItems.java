@@ -10,7 +10,6 @@ public class NarniaItems {
 	public static Item Banana;
 	public static Item NarniaItem;
 	
-//	public static Item BodoFood;
 	
 		public NarniaItems() {
 		
@@ -31,7 +30,6 @@ public class NarniaItems {
 		
 		
 		GameRegistry.registerItem(NarniaItem, NarniaItem.getUnlocalizedName().substring(5));
-//		GameRegistry.registerItem(BodoFood, BodoFood.getUnlocalizedName().substring(5));
 	
 		
 	}
