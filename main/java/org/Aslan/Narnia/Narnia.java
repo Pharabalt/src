@@ -1,6 +1,5 @@
 package org.Aslan.Narnia;
 
-//import org.Aslan.Narnia.crafting.ModCrafting;
 import org.Aslan.Narnia.proxy.CommonProxy;
 
 import net.minecraft.creativetab.CreativeTabs;
@@ -18,7 +17,6 @@ public class Narnia {
 	
 	public static final String MODID = "Aslan";
 	public static final String VERSION = "1.0";
-//	public static Item Banana;
 	
 	
 	@Instance(MODID)
